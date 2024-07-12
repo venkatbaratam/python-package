@@ -5,9 +5,9 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.4"
-REPO_NAME ="python-package"
-PKG_NAME= "simplemongo"
+__version__ = "0.0.1"
+REPO_NAME = "python-package"
+PKG_NAME= "databaseautomation"
 AUTHOR_USER_NAME = "venkatbaratam"
 AUTHOR_EMAIL = "venkyvenky84990@gmail.com"
 
@@ -26,6 +26,3 @@ setup(
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     )
-
-
-
