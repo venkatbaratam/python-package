@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
    
 
 __version__ = "0.0.1"
-REPO_NAME = "python-package"
+REPO_NAME = "mongoconnectsimple"
 PKG_NAME= "mongoconnectsimple"
 AUTHOR_USER_NAME = "venkatbaratam"
 AUTHOR_EMAIL = "venkyvenky84990@gmail.com"
